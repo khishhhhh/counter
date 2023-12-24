@@ -20,7 +20,7 @@ p {
     font-size: 2rem;
     color: gray;
 }
-.button-div {
+#button-div {
     /* background-color: blue; */
     display: flex;
     flex-direction: row;
